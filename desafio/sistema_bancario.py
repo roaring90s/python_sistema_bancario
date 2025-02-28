@@ -52,7 +52,7 @@ while True:
 
     elif opcao == "e":
         print("\n========= EXTRATO ========")
-        print(f"Extrato atual de: RS{saldo:.2f}\n")
+        print(f"Saldo atual de: RS{saldo:.2f}\n")
         print("=============================")
 
 
